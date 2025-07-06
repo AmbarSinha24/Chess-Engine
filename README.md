@@ -51,7 +51,7 @@ Evaluation is based on standard material values:
 * Bishop/Knight = 3
 * Pawn = 1
 
-## 🧠 Some Screenshots
+## 📸  Some Screenshots
 
 **Starting Position**
 <img width="1270" alt="Screenshot 2025-07-06 at 2 53 48 PM" src="https://github.com/user-attachments/assets/4ce5f785-48e6-4f3d-a908-a2790540c6b1" />
