@@ -84,6 +84,3 @@ python ChessMain.py
 **Ambar Sinha**
 GitHub: [@AmbarSinha24](https://github.com/AmbarSinha24)
 
-## 📄 License
-
-MIT License (if you want to add one — optional)
