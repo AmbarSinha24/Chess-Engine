@@ -51,6 +51,18 @@ Evaluation is based on standard material values:
 * Bishop/Knight = 3
 * Pawn = 1
 
+## 🧠 Some Screenshots
+
+**Starting Position**
+<img width="1270" alt="Screenshot 2025-07-06 at 2 53 48 PM" src="https://github.com/user-attachments/assets/4ce5f785-48e6-4f3d-a908-a2790540c6b1" />
+
+**Stalemate Situation**
+<img width="1270" alt="Screenshot 2025-07-06 at 2 57 06 PM" src="https://github.com/user-attachments/assets/65d2d15c-a8c1-4955-a73b-eb9b2781a7aa" />
+
+**After Game is Over**
+<img width="1270" alt="Screenshot 2025-07-06 at 3 00 53 PM" src="https://github.com/user-attachments/assets/58b917f8-266f-425a-8113-2dee3f2b5a2c" />
+
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
